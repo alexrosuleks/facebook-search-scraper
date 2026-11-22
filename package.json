@@ -1,0 +1,20 @@
+{
+  "name": "facebook-search-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Facebook Search Scraper: Search public Facebook posts, pages, places, profiles, and reels by keyword. Collect authors, reactions, comments, links, and page contact details in one dataset.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "facebook"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
